@@ -10,7 +10,7 @@ I'm a passionate full-stack developer and designer from India, specializing in m
 - 🎓 **MCA Aspirant at DYPIU, Pune**
 - 💻 **Web Development & Design Enthusiast**
 - 🖥️ **Proficient in Next.js, JavaScript, and Java**
-- 🔒 **Bug Bounty Hunter & Cybersecurity Explorer**
+<--! - 🔒 **Bug Bounty Hunter & Cybersecurity Explorer** -->
 - 🎨 **Passionate about UI/UX & Aesthetic Web Design**
 - 📱 **Beginner-Level Android & iOS App Developer**
 - 🔗 **Open for Freelance & Remote Work**
