@@ -34,7 +34,7 @@ I'm a passionate full-stack developer and designer from India, specializing in m
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/SagarUndirwade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/SagarUndirwade](https://www.linkedin.com/in/sagar-undirwade-4a5a03233/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/SagarUndirwade" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=blue"/></a>
   <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
